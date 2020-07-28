@@ -1,0 +1,11 @@
+export const item_added_to_cart = 'item added to cart';
+export const item_removed_from_cart = 'item removed from cart';
+export const item_added_to_favourites = 'item added to favourites';
+export const item_removed_from_favourites = 'item removed from favourites';
+export const user_added = 'user added';
+export const tokens_added = 'tokens added';
+export const qty_added = 'quantity added';
+export const signup_credentials_added = 'signup credentials added';
+export const qty_the_added = 'the quantity added';
+export const price_added = 'the price is added';
+export const price_removed = 'the price is removed';
